@@ -1,4 +1,4 @@
-# Anakin_carigao
+# Rename the folder name into "kin_carigao"
 
 A new Flutter project.
 
