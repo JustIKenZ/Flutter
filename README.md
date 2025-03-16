@@ -1,4 +1,4 @@
-# Rename the folder name into "kin_carigao"
+# Project made by ANAKIN V. CARIGAO (Rename the folder name into "kin_carigao")
 
 A new Flutter project.
 
